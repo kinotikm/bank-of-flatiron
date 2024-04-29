@@ -22,7 +22,7 @@ function App() {
   );
 
   return (<>
-   <h1 className="head">Royal Bank of Flatiron</h1>
+   <h1 className="head">The Royal Bank of Flatiron</h1>
     <div className="App">
       <SearchBar onSearch={handleSearch} />
       <TransactionForm addTransaction={addTransaction} />
