@@ -3,7 +3,8 @@
 }
 h1{
   text-align: center;
-  background-color: blue;
+  color:whitesmoke;
+  background-color:blueviolet;
 }
 
 .horizontal-form {
@@ -40,7 +41,7 @@ h1{
   background-position: right 10px center; 
   background-repeat: no-repeat;
   padding-right: 35px; 
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   
 }
 
