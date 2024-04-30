@@ -12,7 +12,7 @@ function SearchBar({ onSearch }) {
   return (
     <input id='search-bar'
       type="text"
-      placeholder="Search transactions..."
+      placeholder="Search  Recent transactions"
       value={searchTerm}
       onChange={handleChange}
     />
